@@ -1,0 +1,15 @@
+{
+    "name": "randiapriliyadir/raven-bahasa",
+    "description": "Raven Framework",
+    "keywords": ["raven", "framework", "project template", "multi languages", "multi bahasa"],
+    "license": "MIT License",
+    "require": {
+        "bramus/router": "^1.6",
+        "twbs/bootstrap": "^5.0",
+        "fortawesome/font-awesome": "^5.15",
+        "components/jquery": "^3.5",
+        "firebase/php-jwt": "^5.4",
+        "league/oauth2-google": "^4.0",
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
